@@ -1,0 +1,94 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Marcos",
+      "surnames": "Pastor",
+      "title": "Team builder in Tech Transformation Programs. ",
+      "description": "Eager learner, I'll keep studying all my life.\nIt's not about the languages, but how you use them. This is my journey: COBOL - HTML/JavaScript - - Visual Basic -  JAVA - Python - R - JavaScript - Solidity  ",
+      "avatar": {
+        "alt": "decentralized_vampire_mpastorg.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/30/0d8e38d8-8e2d-4628-9936-9ee27a962563_decentralized_vampir.jpg"
+      },
+      "location": {
+        "notes": "Chicago"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/mpastorg/"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jupyter",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Cobol",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Solidity",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/mpastorg/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Solidity",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
